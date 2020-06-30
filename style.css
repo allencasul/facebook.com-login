@@ -1,0 +1,4219 @@
+body{
+    margin: 0px;
+    padding: 0;
+    font-family:sans-serif;
+    background: #E9EBEE;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+  }
+  .container{
+    width: 80%;
+    overflow:hidden;
+    margin: auto;
+  }
+  
+img {
+  padding-left: 50px;
+  margin-top: 24px;
+  position: absolute;
+  
+}
+
+  a{
+      text-decoration: none;
+  }
+
+  p {
+      font-size: 17px;
+      line-height: 35px;
+  }
+
+
+
+
+
+
+
+  .nyt {
+      font-size: 11.8px;
+      letter-spacing: -0.1px;
+      padding: 3px;
+      border: none;
+      outline: none;
+      color: #6962B8;
+      
+  }
+
+  .nyt:hover {
+    text-decoration: underline;
+  }
+
+  }
+  form {
+      width: 610px;
+      height: 290px;
+      background: #ffff;
+      border-radius: 1px;
+      margin-top: 5px;
+  }
+
+
+
+  
+  header{
+    background-color: #3b5998;
+    color: white;
+    height: 83px;
+  }
+
+
+  header h1{
+    float: left;
+    font-family: sans-serif;
+    font-size: 36px;
+    line-height: 55px;
+    padding-left: 50px;
+    letter-spacing: -2px;
+  }
+
+  /*footer {
+      width: 100%;
+      height: 345px;
+      background: white;
+  }
+
+  .black {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+.black:hover {
+  text-decoration: underline;
+}
+
+
+.blackk  {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+#cool {
+    margin-top: 100px;
+}
+
+
+.tyn {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.tyn:hover {
+  text-decoration: underline;
+}*/
+
+.div {
+    padding-left: 183.7px;
+}
+
+
+@media only screen and (min-width: 320px){
+      
+      .mail {
+        margin-top: 10000px;
+      }
+      .password {
+        margin-top: 10000px;
+        color: transparent;
+      }
+
+      .mob11 {
+    padding-left: 68px;
+    margin-top: -200px;
+  }
+
+    .mob12 {
+    padding-left: 245px;
+    margin-top: -71.7px;
+  }
+      .mail {
+        color: transparent;
+        background: transparent;
+        border: none;
+        outline: none;
+        background-color: transparent;
+      }
+
+      .password {
+        color: transparent;
+        background: transparent;
+        border: none;
+        outline: none;
+        background-color: transparent;
+      }
+
+      .book {
+         color: transparent;
+        background: transparent;
+        border: none;
+        outline: none;
+        background-color: transparent;
+      }
+
+      .steal {
+         color: transparent;
+        background: transparent;
+        border: none;
+        outline: none;
+        background-color: transparent;
+      }
+
+      .direct {
+         color: transparent;
+        background: transparent;
+        border: none;
+        outline: none;
+        background-color: transparent;
+      }
+
+      .nnt {
+         color: transparent;
+        background: transparent;
+        border: none;
+        outline: none;
+        background-color: transparent;
+      }
+
+        .tyn {
+         color: transparent;
+        background: transparent;
+        border: none;
+        outline: none;
+        background-color: transparent;
+      }
+
+      .black {
+         color: transparent;
+        background: transparent;
+        border: none;
+        outline: none;
+        background-color: transparent;
+      }
+
+
+      .submit {
+        border: none;
+        outline: none;
+        background: transparent;
+        color: transparent;
+      }
+
+      .facebook {
+        padding-left: 65px;
+        width: 125px;
+        margin-top: 6px;
+      }
+
+      .clone {
+        display: none;
+      }
+
+      .mir {
+        display: none;
+      }
+
+      header {
+        height: 47px;
+        background-color: #516EAE;
+      }
+
+      body {
+       background: #fcfcfc;
+      }
+
+      form {
+      width: 310px;
+      height: 290px;
+      border-radius: 1px;
+      margin-top: 5px;
+     }
+
+     .create {
+      position: relative;
+      margin-top: 50%;
+      display: none;
+     }
+    
+     .get {
+        font-size: 13.5px;
+        background: #f6ffcc;
+        padding: 14px  40.5px;
+        color: #6F7F9B;
+       
+     }
+
+     .go {
+         margin-top: 25px;  
+     }
+
+     p {
+      display: none;
+     }
+
+     button {
+      background-color: #1777F0;
+      color: white;
+      font-family: arial;
+      font-weight: bold;
+      outline: none;
+      border-radius: 5px;
+      padding: 11px 133px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+      margin-top: 10px;
+
+
+     }
+
+     button:hover {
+      background: #6EADFF;
+      color: solid white;
+      transition: .4s;
+     }
+     .email {
+        width: 294px;
+        height: 35px;
+        padding-left: 10px;
+        margin-top: -70px;
+        border: none;
+        outline: none;
+        background: #f8fff0;
+        color: #757a63;
+        border-radius: 4px;
+        border: 0.01px solid #ebebeb;
+     }
+
+     .pass {
+        width: 294px;
+        height: 35px;
+        padding-left: 10px;
+        border: none;
+        outline: none;
+        background: #f8fff0;
+        color: #757a63;
+        border-radius: 4px;
+        border: 0.01px solid #ebebeb;
+
+  }
+
+  .nyt {
+    display: none;
+  }
+  
+  #hleft {
+    margin-right: 58%;
+    margin-top: -62px;
+  }
+
+  #hright {
+    margin-left: 58%;
+  }
+  
+  h5 {
+    color: gray;
+    font-family: arial;
+  }
+
+  hr {
+    background: transparent;
+  }
+  
+      .create2 {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;
+      background: #43c229;
+      padding: 10px 13px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;     
+      position: relative;
+      margin-top: -90px;
+  }
+
+.crypt {
+  margin-top: 20px;
+}
+
+  .create2:hover {
+    background: #36A420;
+    transition: .3s;
+  }
+
+  .nyt1 {
+    font-family: arial;
+    font-size: 13px;
+    color: gray;
+    
+  }
+  .nyt1:hover {
+    transition: .4s;
+    color: darkgray;
+  }
+
+  .nyt11 {
+    margin-top: -25px;
+  }
+
+  footer {
+    display: none;
+  }
+
+  .mob11 {
+    padding-left: 68px;
+  }
+
+    .mob12 {
+    padding-left: 197px;
+    margin-top: -71.7px;
+  }
+
+  .nyt2 {
+    color: gray;
+    font-size: 13px;
+  }
+
+    .nyt2:hover {
+    transition: .4s;
+    color: darkgray;
+  }
+
+  .book {
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (min-width: 360px){
+      .facebook {
+        padding-left: 78px;
+        width: 125px;
+        margin-top: 6px;
+
+
+      }
+
+       .clone {
+        display: none;
+      }
+
+         .mir {
+        display: none;
+      }
+
+
+      .stolen2 {
+        color: transparent;
+      }
+      header {
+        height: 47px;
+        background-color: #516EAE;
+      }
+
+      body {
+       background: #fcfcfc;
+      }
+
+      form {
+      width: 310px;
+      height: 290px;
+      border-radius: 1px;
+      margin-top: 5px;
+     }
+
+     .create {
+      position: relative;
+      margin-top: 50%;
+      display: none;
+     }
+    
+     .get {
+        font-size: 13.5px;
+        background: #f6ffcc;
+        padding: 14px  61.5px;
+        color: #6F7F9B;
+       
+     }
+
+     .go {
+         margin-top: 25px;  
+     }
+
+     p {
+      display: none;
+     }
+
+     button {
+      background-color: #1777F0;
+      color: white;
+      font-family: arial;
+      font-weight: bold;
+      outline: none;
+      border-radius: 5px;
+      padding: 11px 133px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+      margin-top: 10px;
+
+
+     }
+
+     button:hover {
+      background: #6EADFF;
+      color: solid white;
+      transition: .4s;
+     }
+     .email {
+        width: 294px;
+        height: 35px;
+        padding-left: 10px;
+        margin-top: -70px;
+        border: none;
+        outline: none;
+        background: #f8fff0;
+        color: #757a63;
+        border-radius: 4px;
+        border: 0.01px solid #ebebeb;
+     }
+
+     .pass {
+        width: 294px;
+        height: 35px;
+        padding-left: 10px;
+        border: none;
+        outline: none;
+        background: #f8fff0;
+        color: #757a63;
+        border-radius: 4px;
+        border: 0.01px solid #ebebeb;
+
+  }
+
+  .nyt {
+    display: none;
+  }
+  
+  #hleft {
+    margin-right: 58%;
+    margin-top: -62px;
+  }
+
+  #hright {
+    margin-left: 58%;
+  }
+  
+  h5 {
+    color: gray;
+    font-family: arial;
+  }
+
+  hr {
+    background: transparent;
+  }
+  
+      .create2 {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;
+      background: #43c229;
+      padding: 10px 13px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;     
+      position: relative;
+      margin-top: -90px;
+  }
+
+.crypt {
+  margin-top: 20px;
+}
+
+  .create2:hover {
+    background: #36A420;
+    transition: .3s;
+  }
+
+  .nyt1 {
+    font-family: arial;
+    font-size: 13px;
+    color: gray;
+    
+  }
+  .nyt1:hover {
+    transition: .4s;
+    color: darkgray;
+  }
+
+  .nyt11 {
+    margin-top: -25px;
+  }
+
+  footer {
+    display: none;
+  }
+
+  .mob11 {
+    padding-left: 68px;
+    margin-top: -200px;
+  }
+
+    .mob12 {
+    padding-left: 245px;
+    margin-top: -71.7px;
+  }
+
+  .nyt2 {
+    color: gray;
+    font-size: 13px;
+  }
+
+    .nyt2:hover {
+    transition: .4s;
+    color: darkgray;
+  }
+
+  .book {
+    margin-top: 30px;
+  }
+
+
+      .mail {
+        margin-top: 10000px;
+        color: transparent;
+      }
+      .password {
+        margin-top: 10000px;
+        color: transparent;
+      }
+
+
+}
+
+@media only screen and (min-width: 375px){
+       .get {
+        font-size: 13.5px;
+        background: #f6ffcc;
+        padding: 14px  68px;
+        color: #6F7F9B;
+       
+     }
+
+
+ .clone {
+        display: none;
+      }
+     .go {
+         margin-top: 22px;  
+     }
+
+
+    .mob12 {
+    padding-left: 259px;
+    margin-top: -71.7px;
+  }
+
+       .facebook {
+        padding-left: 80px;
+
+      }
+
+
+}
+
+@media only screen and (min-width: 380px){
+       .get {
+        font-size: 13.5px;
+        background: #f6ffcc;
+        padding: 14px  70.5px;
+        color: #6F7F9B;
+       
+     }
+
+      .clone {
+        display: none;
+      }
+
+     .go {
+         margin-top: 25px;  
+     }
+
+
+    .mob12 {
+    padding-left: 259px;
+    margin-top: -71.7px;
+  }
+
+       .facebook {
+        padding-left: 80px;
+
+      }
+}
+
+@media only screen and (min-width: 400px){
+      .facebook {
+        padding-left: 90px;
+
+      }
+        .get {
+        font-size: 13.5px;
+        background: #f6ffcc;
+        padding: 14px  81px;
+        color: #6F7F9B;
+       
+     }
+
+      .clone {
+        display: none;
+      }
+
+     .go {
+         margin-top: 22px;  
+     }
+    .mob12 {
+    padding-left: 280px;
+    margin-top: -71.7px;
+  }
+}
+
+
+
+
+@media only screen and (min-width: 410px){
+      .facebook {
+        padding-left: 78px;
+
+      }
+}
+
+@media only screen and (min-width: 412px){
+      .facebook {
+        padding-left: 100px;
+
+      }
+
+       .clone {
+        display: none;
+      }
+
+        .get {
+        font-size: 13.5px;
+        background: #f6ffcc;
+        padding: 14px  87px;
+        color: #6F7F9B;
+       
+     }
+
+     .go {
+         margin-top: 25px;  
+     }
+    .mob12 {
+    padding-left: 290px;
+    margin-top: -71.7px;
+  }
+}
+
+
+@media only screen and (min-width: 420px){
+      .facebook {
+        padding-left: 97px;
+
+      }
+
+       .clone {
+        display: none;
+      }
+
+        .get {
+        font-size: 13.5px;
+        background: #f6ffcc;
+        padding: 14px  87px;
+        color: #6F7F9B;
+       
+     }
+
+     .go {
+         margin-top: 25px;  
+     }
+    .mob12 {
+    padding-left: 290px;
+    margin-top: -71.7px;
+  }
+}
+
+
+@media only screen and (min-width: 430px){
+      .facebook {
+        padding-left: 100px;
+
+      }
+
+       .clone {
+        display: none;
+      }
+
+        .get {
+        font-size: 13.5px;
+        background: #f6ffcc;
+        padding: 14px  96px;
+        color: #6F7F9B;
+       
+     }
+
+     .go {
+         margin-top: 25px;  
+     }
+    .mob12 {
+    padding-left: 300px;
+    margin-top: -71.7px;
+  }
+}
+
+
+@media only screen and (min-width: 440px){
+      .facebook {
+        padding-left: 110px;
+
+      }
+
+        .get {
+        font-size: 13.5px;
+        background: #f6ffcc;
+        padding: 14px  101px;
+        color: #6F7F9B;
+       
+     }
+
+     .go {
+         margin-top: 25px;  
+     }
+    .mob12 {
+    padding-left: 313px;
+    margin-top: -71.7px;
+  }
+   .clone {
+        display: none;
+      }
+}
+
+
+@media only screen and (min-width: 450px){
+      .facebook {
+        padding-left: 120px;
+
+      }
+
+        .get {
+        font-size: 13.5px;
+        background: #f6ffcc;
+        padding: 14px  106px;
+        color: #6F7F9B;
+       
+     }
+
+     .go {
+         margin-top: 25px;  
+     }
+    .mob12 {
+    padding-left: 325px;
+    margin-top: -71.7px;
+  }
+
+   .clone {
+        display: none;
+      }
+}
+
+}
+
+
+@media only screen and (min-width: 460px){
+      .facebook {
+        padding-left: 100px;
+
+      }
+
+        .get {
+        font-size: 13.5px;
+        background: #f6ffcc;
+        padding: 14px  px;
+        color: #6F7F9B;
+       
+     }
+
+      .clone {
+        display: none;
+      }
+
+     .go {
+         margin-top: 25px;  
+     }
+    .mob12 {
+    padding-left: 300px;
+    margin-top: -71.7px;
+  }
+}
+
+@media only screen and (min-width: 480px){
+      .facebook {
+        padding-left: 130px;
+
+      }
+
+       .clone {
+        display: none;
+      }
+
+        .get {
+        font-size: 13.5px;
+        background: #f6ffcc;
+        padding: 14px  120.5px;
+        color: #6F7F9B;
+       
+     }
+
+     .go {
+         margin-top: 25px;  
+     }
+    .mob12 {
+    padding-left: 350px;
+    margin-top: -71.7px;
+  }
+}
+
+
+}
+
+
+@media only screen and (min-width: 500px){
+     .create {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;
+      background: #42B72A;
+      padding: 9px 12px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;
+      position: relative;
+      margin-left: 235px;
+
+
+      
+  }
+
+
+
+
+  .create:hover {
+    background: #36A420;
+    transition: .3s;
+  }
+}
+
+
+@media only screen and (min-width: 500px){
+       .facebook {
+        margin-left: -57px;
+      }
+
+      .create {
+        margin-left: 230px;
+      }
+
+  
+}
+
+
+@media only screen and (min-width: 768px){
+       .get {
+        font-size: 13.5px;
+        background: #f6ffcc;
+        padding: 14px  264.5px;
+        color: #6F7F9B;
+       
+     }
+
+     .go {
+         margin-top: 25px;  
+     }
+
+.mob11 {
+    padding-left: 220px;
+    margin-top: -11.7px;
+
+  }
+      .mob12 {
+    padding-left: 515px;
+    margin-top: -70px;
+}
+       .facebook {
+        padding-left: 290px;
+
+      }
+}
+
+@media only screen and (min-width: 800px){
+  .facebook {
+        margin-left: -245px;
+        width: 187px;
+        margin-top: 25px;
+
+      }
+
+      header {
+        height: 83px;
+        background-color: #3F5C9A;
+      }
+      
+
+      /*.mir {
+        margin-left: 51%;
+        margin-top: 20px;
+      }*/
+      
+      .dir {
+        color: white;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 12.5px;
+        background: #36A420;
+        padding: 10pc 15px;
+      }
+
+      .go {
+        display: none;
+      }
+
+      .mob11 {
+        display: none;
+      }
+
+       .mob12 {
+        display: none;
+      }
+
+      .nyt2 {
+        display: none;
+      }
+
+      .crypt {
+        margin-top: -182px;
+        margin-left: -80%;
+      }
+        
+
+       .create2 {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;   
+      background: #42B72A;
+      padding: 9px 13px;
+      border-radius: 2px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;     
+      position: relative;
+      margin-top: -90px;
+      display: none;
+  }
+      
+      .create2:hover {
+        background:  #36A420;
+        transition: .3s;
+      }
+
+
+      .nyt11 {
+        display: none;
+      }
+
+      .mobmail {
+        display: none;
+      }
+       .mobpass {
+         display: none;
+      }
+
+      hr {
+        display: none;
+      }
+
+      h5 {
+        display: none;
+      }
+
+      .pass {
+        display: none;
+      }
+
+      body {
+        background: #E9EBEE;
+      }
+
+      .cool {
+        width: 610px;
+        height: 280px;
+        background: #FFFFFF;
+        margin-top: 10px;
+        border-radius: 2px;
+        margin-top: -285px;
+      }
+
+      .book {
+        line-height: 95px;
+        color: #212121;
+        font-size: 18px;
+        font-family: arial;
+      }
+
+
+        .mail {
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+      margin-top: -30px;
+  }
+
+  .password {
+      margin-top: 12px;
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+
+  }
+
+  .submit {
+    margin-top: 12px;
+    width: 315px;
+    height: 43px;
+    background: #4267B2;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+
+    .submit:hover {
+    background: #365899;
+    transition: .4s;
+  }
+
+  .steal {
+      font-size: 11.8px;
+      letter-spacing: -0.1px;
+      padding: 3px;
+      border: none;
+      outline: none;
+      color: #6962B8;
+      
+  }
+
+  .steal:hover {
+    text-decoration: underline;
+  }
+
+   .footer {
+      width: 100%;
+      height: 345px;
+      background: white;
+      margin-top: 95px;
+  }
+
+
+  .black {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+.black:hover {
+  text-decoration: underline;
+}
+
+
+.blackk  {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+#cool {
+    margin-top: 100px;
+}
+
+
+.tyn {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.tyn:hover {
+  text-decoration: underline;
+}
+
+
+.nnt {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.nnt:hover {
+  text-decoration: underline;
+}
+
+.stolen {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+}
+
+.stolen2 {
+  padding-left: 185px;
+  margin-top: 18px;
+}
+
+.new {
+  margin-left: 231px;
+}
+
+.direct {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 105px;
+      background: #42B72A;
+      padding: 9px 11.5px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+}
+
+.direct:hover {
+    background: #36A420;
+    transition: .3s;
+}
+
+}
+}
+
+@media only screen and (min-width: 990px){
+      .facebook {
+        margin-left: -170px;
+      }
+
+      .create {
+        margin-left: 230px;
+      }
+      .facebook {
+        margin-left: -245px;
+        width: 187px;
+        margin-top: 25px;
+
+      }
+
+      header {
+        height: 83px;
+        background-color: #3F5C9A;
+      }
+      
+
+      /*.mir {
+        margin-left: 51%;
+        margin-top: 20px;
+      }*/
+      
+      .dir {
+        color: white;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 12.5px;
+        background: #36A420;
+        padding: 10pc 15px;
+      }
+
+      .go {
+        display: none;
+      }
+
+      .mob11 {
+        display: none;
+      }
+
+       .mob12 {
+        display: none;
+      }
+
+      .nyt2 {
+        display: none;
+      }
+
+      .crypt {
+        margin-top: -182px;
+        margin-left: -80%;
+      }
+        
+
+       .create2 {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;   
+      background: #42B72A;
+      padding: 9px 13px;
+      border-radius: 2px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;     
+      position: relative;
+      margin-top: -90px;
+      display: none;
+  }
+      
+      .create2:hover {
+        background:  #36A420;
+        transition: .3s;
+      }
+
+
+      .nyt11 {
+        display: none;
+      }
+
+      .mobmail {
+        display: none;
+      }
+       .mobpass {
+         display: none;
+      }
+
+      hr {
+        display: none;
+      }
+
+      h5 {
+        display: none;
+      }
+
+      .pass {
+        display: none;
+      }
+
+      body {
+        background: #E9EBEE;
+      }
+
+      .cool {
+        width: 610px;
+        height: 280px;
+        background: #FFFFFF;
+        margin-top: 10px;
+        border-radius: 2px;
+        margin-top: -285px;
+      }
+
+      .book {
+        line-height: 95px;
+        color: #212121;
+        font-size: 18px;
+        font-family: arial;
+      }
+
+
+        .mail {
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+      margin-top: -30px;
+  }
+
+  .password {
+      margin-top: 12px;
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+
+  }
+
+  .submit {
+    margin-top: 12px;
+    width: 315px;
+    height: 43px;
+    background: #4267B2;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+
+    .submit:hover {
+    background: #365899;
+    transition: .4s;
+  }
+
+  .steal {
+      font-size: 11.8px;
+      letter-spacing: -0.1px;
+      padding: 3px;
+      border: none;
+      outline: none;
+      color: #6962B8;
+      
+  }
+
+  .steal:hover {
+    text-decoration: underline;
+  }
+
+   .footer {
+      width: 100%;
+      height: 345px;
+      background: white;
+      margin-top: 95px;
+  }
+
+
+  .black {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+.black:hover {
+  text-decoration: underline;
+}
+
+
+.blackk  {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+#cool {
+    margin-top: 100px;
+}
+
+
+.tyn {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.tyn:hover {
+  text-decoration: underline;
+}
+
+
+.nnt {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.nnt:hover {
+  text-decoration: underline;
+}
+
+.stolen {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+}
+
+.stolen2 {
+  padding-left: 185px;
+  margin-top: 18px;
+}
+
+.new {
+  margin-left: 231px;
+}
+
+.direct {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 105px;
+      background: #42B72A;
+      padding: 9px 11.5px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+}
+
+.direct:hover {
+    background: #36A420;
+    transition: .3s;
+}
+
+}
+}
+
+
+
+
+
+@media only screen and (min-width: 1000px){
+       .facebook {
+        margin-left: -57px;
+      }
+
+      .create {
+        margin-left: 230px;
+      }
+
+      .facebook {
+        margin-left: -245px;
+        width: 187px;
+        margin-top: 25px;
+
+      }
+
+      header {
+        height: 83px;
+        background-color: #3F5C9A;
+      }
+      
+
+      /*.mir {
+        margin-left: 51%;
+        margin-top: 20px;
+      }*/
+      
+      .dir {
+        color: white;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 12.5px;
+        background: #36A420;
+        padding: 10pc 15px;
+      }
+
+      .go {
+        display: none;
+      }
+
+      .mob11 {
+        display: none;
+      }
+
+       .mob12 {
+        display: none;
+      }
+
+      .nyt2 {
+        display: none;
+      }
+
+      .crypt {
+        margin-top: -182px;
+        margin-left: -80%;
+      }
+        
+
+       .create2 {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;   
+      background: #42B72A;
+      padding: 9px 13px;
+      border-radius: 2px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;     
+      position: relative;
+      margin-top: -90px;
+      display: none;
+  }
+      
+      .create2:hover {
+        background:  #36A420;
+        transition: .3s;
+      }
+
+
+      .nyt11 {
+        display: none;
+      }
+
+      .mobmail {
+        display: none;
+      }
+       .mobpass {
+         display: none;
+      }
+
+      hr {
+        display: none;
+      }
+
+      h5 {
+        display: none;
+      }
+
+      .pass {
+        display: none;
+      }
+
+      body {
+        background: #E9EBEE;
+      }
+
+      .cool {
+        width: 610px;
+        height: 280px;
+        background: #FFFFFF;
+        margin-top: 10px;
+        border-radius: 2px;
+        margin-top: -285px;
+      }
+
+      .book {
+        line-height: 95px;
+        color: #212121;
+        font-size: 18px;
+        font-family: arial;
+      }
+
+
+        .mail {
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+      margin-top: -30px;
+  }
+
+  .password {
+      margin-top: 12px;
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+
+  }
+
+  .submit {
+    margin-top: 12px;
+    width: 315px;
+    height: 43px;
+    background: #4267B2;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+
+    .submit:hover {
+    background: #365899;
+    transition: .4s;
+  }
+
+  .steal {
+      font-size: 11.8px;
+      letter-spacing: -0.1px;
+      padding: 3px;
+      border: none;
+      outline: none;
+      color: #6962B8;
+      
+  }
+
+  .steal:hover {
+    text-decoration: underline;
+  }
+
+   .footer {
+      width: 100%;
+      height: 345px;
+      background: white;
+      margin-top: 95px;
+  }
+
+
+  .black {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+.black:hover {
+  text-decoration: underline;
+}
+
+
+.blackk  {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+#cool {
+    margin-top: 100px;
+}
+
+
+.tyn {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.tyn:hover {
+  text-decoration: underline;
+}
+
+
+.nnt {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.nnt:hover {
+  text-decoration: underline;
+}
+
+.stolen {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+}
+
+.stolen2 {
+  padding-left: 185px;
+  margin-top: 18px;
+}
+
+.new {
+  margin-left: 231px;
+}
+
+.direct {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 105px;
+      background: #42B72A;
+      padding: 9px 11.5px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+}
+
+.direct:hover {
+    background: #36A420;
+    transition: .3s;
+}
+
+}
+}
+@media only screen and (min-width: 1010px){
+       .facebook {
+        margin-left: -57px;
+      }
+
+      .create {
+        margin-left: 230px;
+      }
+}
+@media only screen and (min-width: 1020px){
+       .facebook {
+        margin-left: -57px;
+      }
+
+      .create {
+        margin-left: 230px;
+      }
+      .facebook {
+        margin-left: -245px;
+        width: 187px;
+        margin-top: 25px;
+
+      }
+
+      header {
+        height: 83px;
+        background-color: #3F5C9A;
+      }
+      
+
+      /*.mir {
+        margin-left: 51%;
+        margin-top: 20px;
+      }*/
+      
+      .dir {
+        color: white;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 12.5px;
+        background: #36A420;
+        padding: 10pc 15px;
+      }
+
+      .go {
+        display: none;
+      }
+
+      .mob11 {
+        display: none;
+      }
+
+       .mob12 {
+        display: none;
+      }
+
+      .nyt2 {
+        display: none;
+      }
+
+      .crypt {
+        margin-top: -182px;
+        margin-left: -80%;
+      }
+        
+
+       .create2 {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;   
+      background: #42B72A;
+      padding: 9px 13px;
+      border-radius: 2px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;     
+      position: relative;
+      margin-top: -90px;
+      display: none;
+  }
+      
+      .create2:hover {
+        background:  #36A420;
+        transition: .3s;
+      }
+
+
+      .nyt11 {
+        display: none;
+      }
+
+      .mobmail {
+        display: none;
+      }
+       .mobpass {
+         display: none;
+      }
+
+      hr {
+        display: none;
+      }
+
+      h5 {
+        display: none;
+      }
+
+      .pass {
+        display: none;
+      }
+
+      body {
+        background: #E9EBEE;
+      }
+
+      .cool {
+        width: 610px;
+        height: 280px;
+        background: #FFFFFF;
+        margin-top: 10px;
+        border-radius: 2px;
+        margin-top: -285px;
+      }
+
+      .book {
+        line-height: 95px;
+        color: #212121;
+        font-size: 18px;
+        font-family: arial;
+      }
+
+
+        .mail {
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+      margin-top: -30px;
+  }
+
+  .password {
+      margin-top: 12px;
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+
+  }
+
+  .submit {
+    margin-top: 12px;
+    width: 315px;
+    height: 43px;
+    background: #4267B2;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+
+    .submit:hover {
+    background: #365899;
+    transition: .4s;
+  }
+
+  .steal {
+      font-size: 11.8px;
+      letter-spacing: -0.1px;
+      padding: 3px;
+      border: none;
+      outline: none;
+      color: #6962B8;
+      
+  }
+
+  .steal:hover {
+    text-decoration: underline;
+  }
+
+   .footer {
+      width: 100%;
+      height: 345px;
+      background: white;
+      margin-top: 95px;
+  }
+
+
+  .black {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+.black:hover {
+  text-decoration: underline;
+}
+
+
+.blackk  {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+#cool {
+    margin-top: 100px;
+}
+
+
+.tyn {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.tyn:hover {
+  text-decoration: underline;
+}
+
+
+.nnt {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.nnt:hover {
+  text-decoration: underline;
+}
+
+.stolen {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+}
+
+.stolen2 {
+  padding-left: 185px;
+  margin-top: 18px;
+}
+
+.new {
+  margin-left: 231px;
+}
+
+.direct {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 105px;
+      background: #42B72A;
+      padding: 9px 11.5px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+}
+
+.direct:hover {
+    background: #36A420;
+    transition: .3s;
+}
+
+}
+}
+
+
+@media only screen and (min-width: 1030px){
+       .facebook {
+        margin-left: -57px;
+      }
+
+      .create {
+        margin-left: 230px;
+      }
+      .facebook {
+        margin-left: -245px;
+        width: 187px;
+        margin-top: 25px;
+
+      }
+
+      header {
+        height: 83px;
+        background-color: #3F5C9A;
+      }
+      
+
+      /*.mir {
+        margin-left: 51%;
+        margin-top: 20px;
+      }*/
+      
+      .dir {
+        color: white;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 12.5px;
+        background: #36A420;
+        padding: 10pc 15px;
+      }
+
+      .go {
+        display: none;
+      }
+
+      .mob11 {
+        display: none;
+      }
+
+       .mob12 {
+        display: none;
+      }
+
+      .nyt2 {
+        display: none;
+      }
+
+      .crypt {
+        margin-top: -182px;
+        margin-left: -80%;
+      }
+        
+
+       .create2 {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;   
+      background: #42B72A;
+      padding: 9px 13px;
+      border-radius: 2px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;     
+      position: relative;
+      margin-top: -90px;
+      display: none;
+  }
+      
+      .create2:hover {
+        background:  #36A420;
+        transition: .3s;
+      }
+
+
+      .nyt11 {
+        display: none;
+      }
+
+      .mobmail {
+        display: none;
+      }
+       .mobpass {
+         display: none;
+      }
+
+      hr {
+        display: none;
+      }
+
+      h5 {
+        display: none;
+      }
+
+      .pass {
+        display: none;
+      }
+
+      body {
+        background: #E9EBEE;
+      }
+
+      .cool {
+        width: 610px;
+        height: 280px;
+        background: #FFFFFF;
+        margin-top: 10px;
+        border-radius: 2px;
+        margin-top: -285px;
+      }
+
+      .book {
+        line-height: 95px;
+        color: #212121;
+        font-size: 18px;
+        font-family: arial;
+      }
+
+
+        .mail {
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+      margin-top: -30px;
+  }
+
+  .password {
+      margin-top: 12px;
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+
+  }
+
+  .submit {
+    margin-top: 12px;
+    width: 315px;
+    height: 43px;
+    background: #4267B2;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+
+    .submit:hover {
+    background: #365899;
+    transition: .4s;
+  }
+
+  .steal {
+      font-size: 11.8px;
+      letter-spacing: -0.1px;
+      padding: 3px;
+      border: none;
+      outline: none;
+      color: #6962B8;
+      
+  }
+
+  .steal:hover {
+    text-decoration: underline;
+  }
+
+   .footer {
+      width: 100%;
+      height: 345px;
+      background: white;
+      margin-top: 95px;
+  }
+
+
+  .black {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+.black:hover {
+  text-decoration: underline;
+}
+
+
+.blackk  {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+#cool {
+    margin-top: 100px;
+}
+
+
+.tyn {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.tyn:hover {
+  text-decoration: underline;
+}
+
+
+.nnt {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.nnt:hover {
+  text-decoration: underline;
+}
+
+.stolen {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+}
+
+.stolen2 {
+  padding-left: 185px;
+  margin-top: 18px;
+}
+
+.new {
+  margin-left: 231px;
+}
+
+.direct {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 105px;
+      background: #42B72A;
+      padding: 9px 11.5px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+}
+
+.direct:hover {
+    background: #36A420;
+    transition: .3s;
+}
+
+}
+}
+
+
+@media only screen and (min-width: 1040px){
+       .facebook {
+        margin-left: -57px;
+      }
+
+      .create {
+        margin-left: 230px;
+      }
+}
+
+
+@media only screen and (min-width: 1050px){
+       .facebook {
+        margin-left: -57px;
+      }
+
+      .create {
+        margin-left: 230px;
+      }
+      .facebook {
+        margin-left: -245px;
+        width: 187px;
+        margin-top: 25px;
+
+      }
+
+      header {
+        height: 83px;
+        background-color: #3F5C9A;
+      }
+      
+
+      /*.mir {
+        margin-left: 51%;
+        margin-top: 20px;
+      }*/
+      
+      .dir {
+        color: white;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 12.5px;
+        background: #36A420;
+        padding: 10pc 15px;
+      }
+
+      .go {
+        display: none;
+      }
+
+      .mob11 {
+        display: none;
+      }
+
+       .mob12 {
+        display: none;
+      }
+
+      .nyt2 {
+        display: none;
+      }
+
+      .crypt {
+        margin-top: -182px;
+        margin-left: -80%;
+      }
+        
+
+       .create2 {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;   
+      background: #42B72A;
+      padding: 9px 13px;
+      border-radius: 2px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;     
+      position: relative;
+      margin-top: -90px;
+      display: none;
+  }
+      
+      .create2:hover {
+        background:  #36A420;
+        transition: .3s;
+      }
+
+
+      .nyt11 {
+        display: none;
+      }
+
+      .mobmail {
+        display: none;
+      }
+       .mobpass {
+         display: none;
+      }
+
+      hr {
+        display: none;
+      }
+
+      h5 {
+        display: none;
+      }
+
+      .pass {
+        display: none;
+      }
+
+      body {
+        background: #E9EBEE;
+      }
+
+      .cool {
+        width: 610px;
+        height: 280px;
+        background: #FFFFFF;
+        margin-top: 10px;
+        border-radius: 2px;
+        margin-top: -285px;
+      }
+
+      .book {
+        line-height: 95px;
+        color: #212121;
+        font-size: 18px;
+        font-family: arial;
+      }
+
+
+        .mail {
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+      margin-top: -30px;
+  }
+
+  .password {
+      margin-top: 12px;
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+
+  }
+
+  .submit {
+    margin-top: 12px;
+    width: 315px;
+    height: 43px;
+    background: #4267B2;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+
+    .submit:hover {
+    background: #365899;
+    transition: .4s;
+  }
+
+  .steal {
+      font-size: 11.8px;
+      letter-spacing: -0.1px;
+      padding: 3px;
+      border: none;
+      outline: none;
+      color: #6962B8;
+      
+  }
+
+  .steal:hover {
+    text-decoration: underline;
+  }
+
+   .footer {
+      width: 100%;
+      height: 345px;
+      background: white;
+      margin-top: 95px;
+  }
+
+
+  .black {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+.black:hover {
+  text-decoration: underline;
+}
+
+
+.blackk  {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+#cool {
+    margin-top: 100px;
+}
+
+
+.tyn {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.tyn:hover {
+  text-decoration: underline;
+}
+
+
+.nnt {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.nnt:hover {
+  text-decoration: underline;
+}
+
+.stolen {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+}
+
+.stolen2 {
+  padding-left: 185px;
+  margin-top: 18px;
+}
+
+.new {
+  margin-left: 231px;
+}
+
+.direct {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 105px;
+      background: #42B72A;
+      padding: 9px 11.5px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+}
+
+.direct:hover {
+    background: #36A420;
+    transition: .3s;
+}
+
+}
+}
+
+
+@media only screen and (min-width: 1060px){
+       .facebook {
+        margin-left: -57px;
+      }
+
+      .create {
+        margin-left: 230px;
+      }
+
+      .facebook {
+        margin-left: -245px;
+        width: 187px;
+        margin-top: 25px;
+
+      }
+
+      header {
+        height: 83px;
+        background-color: #3F5C9A;
+      }
+      
+
+      /*.mir {
+        margin-left: 51%;
+        margin-top: 20px;
+      }*/
+      
+      .dir {
+        color: white;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 12.5px;
+        background: #36A420;
+        padding: 10pc 15px;
+      }
+
+      .go {
+        display: none;
+      }
+
+      .mob11 {
+        display: none;
+      }
+
+       .mob12 {
+        display: none;
+      }
+
+      .nyt2 {
+        display: none;
+      }
+
+      .crypt {
+        margin-top: -182px;
+        margin-left: -80%;
+      }
+        
+
+       .create2 {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;   
+      background: #42B72A;
+      padding: 9px 13px;
+      border-radius: 2px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;     
+      position: relative;
+      margin-top: -90px;
+      display: none;
+  }
+      
+      .create2:hover {
+        background:  #36A420;
+        transition: .3s;
+      }
+
+
+      .nyt11 {
+        display: none;
+      }
+
+      .mobmail {
+        display: none;
+      }
+       .mobpass {
+         display: none;
+      }
+
+      hr {
+        display: none;
+      }
+
+      h5 {
+        display: none;
+      }
+
+      .pass {
+        display: none;
+      }
+
+      body {
+        background: #E9EBEE;
+      }
+
+      .cool {
+        width: 610px;
+        height: 280px;
+        background: #FFFFFF;
+        margin-top: 10px;
+        border-radius: 2px;
+        margin-top: -285px;
+      }
+
+      .book {
+        line-height: 95px;
+        color: #212121;
+        font-size: 18px;
+        font-family: arial;
+      }
+
+
+        .mail {
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+      margin-top: -30px;
+  }
+
+  .password {
+      margin-top: 12px;
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+
+  }
+
+  .submit {
+    margin-top: 12px;
+    width: 315px;
+    height: 43px;
+    background: #4267B2;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+
+    .submit:hover {
+    background: #365899;
+    transition: .4s;
+  }
+
+  .steal {
+      font-size: 11.8px;
+      letter-spacing: -0.1px;
+      padding: 3px;
+      border: none;
+      outline: none;
+      color: #6962B8;
+      
+  }
+
+  .steal:hover {
+    text-decoration: underline;
+  }
+
+   .footer {
+      width: 100%;
+      height: 345px;
+      background: white;
+      margin-top: 95px;
+  }
+
+
+  .black {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+.black:hover {
+  text-decoration: underline;
+}
+
+
+.blackk  {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+#cool {
+    margin-top: 100px;
+}
+
+
+.tyn {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.tyn:hover {
+  text-decoration: underline;
+}
+
+
+.nnt {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.nnt:hover {
+  text-decoration: underline;
+}
+
+.stolen {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+}
+
+.stolen2 {
+  padding-left: 185px;
+  margin-top: 18px;
+}
+
+.new {
+  margin-left: 231px;
+}
+
+.direct {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 105px;
+      background: #42B72A;
+      padding: 9px 11.5px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+}
+
+.direct:hover {
+    background: #36A420;
+    transition: .3s;
+}
+
+}
+}
+
+
+@media only screen and (min-width: 1070px){
+     
+}
+
+
+@media only screen and (min-width: 1080px){
+      .facebook {
+        margin-left: -245px;
+        width: 187px;
+        margin-top: 25px;
+
+      }
+
+      header {
+        height: 83px;
+        background-color: #3F5C9A;
+      }
+      
+
+      /*.mir {
+        margin-left: 51%;
+        margin-top: 20px;
+      }*/
+      
+      .dir {
+        color: white;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 12.5px;
+        background: #36A420;
+        padding: 10pc 15px;
+      }
+
+      .go {
+        display: none;
+      }
+
+      .mob11 {
+        display: none;
+      }
+
+       .mob12 {
+        display: none;
+      }
+
+      .nyt2 {
+        display: none;
+      }
+
+      .crypt {
+        margin-top: -182px;
+        margin-left: -80%;
+      }
+        
+
+       .create2 {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;   
+      background: #42B72A;
+      padding: 9px 13px;
+      border-radius: 2px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;     
+      position: relative;
+      margin-top: -90px;
+      display: none;
+  }
+      
+      .create2:hover {
+        background:  #36A420;
+        transition: .3s;
+      }
+
+
+      .nyt11 {
+        display: none;
+      }
+
+      .mobmail {
+        display: none;
+      }
+       .mobpass {
+         display: none;
+      }
+
+      hr {
+        display: none;
+      }
+
+      h5 {
+        display: none;
+      }
+
+      .pass {
+        display: none;
+      }
+
+      body {
+        background: #E9EBEE;
+      }
+
+      .cool {
+        width: 610px;
+        height: 280px;
+        background: #FFFFFF;
+        margin-top: 10px;
+        border-radius: 2px;
+        margin-top: -285px;
+      }
+
+      .book {
+        line-height: 95px;
+        color: #212121;
+        font-size: 18px;
+        font-family: arial;
+      }
+
+
+        .mail {
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+      margin-top: -30px;
+  }
+
+  .password {
+      margin-top: 12px;
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+
+  }
+
+  .submit {
+    margin-top: 12px;
+    width: 315px;
+    height: 43px;
+    background: #4267B2;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+
+    .submit:hover {
+    background: #365899;
+    transition: .4s;
+  }
+
+  .steal {
+      font-size: 11.8px;
+      letter-spacing: -0.1px;
+      padding: 3px;
+      border: none;
+      outline: none;
+      color: #6962B8;
+      
+  }
+
+  .steal:hover {
+    text-decoration: underline;
+  }
+
+   .footer {
+      width: 100%;
+      height: 345px;
+      background: white;
+      margin-top: 95px;
+  }
+
+
+  .black {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+.black:hover {
+  text-decoration: underline;
+}
+
+
+.blackk  {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+#cool {
+    margin-top: 100px;
+}
+
+
+.tyn {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.tyn:hover {
+  text-decoration: underline;
+}
+
+
+.nnt {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.nnt:hover {
+  text-decoration: underline;
+}
+
+.stolen {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+}
+
+.stolen2 {
+  padding-left: 185px;
+  margin-top: 18px;
+}
+
+.new {
+  margin-left: 231px;
+}
+
+.direct {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 105px;
+      background: #42B72A;
+      padding: 9px 11.5px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+}
+
+.direct:hover {
+    background: #36A420;
+    transition: .3s;
+}
+
+}
+}
+
+@media only screen and (min-width: 1280px){
+     .facebook {
+        margin-left: -245px;
+        width: 187px;
+        margin-top: 25px;
+
+      }
+
+      header {
+        height: 83px;
+        background-color: #3F5C9A;
+      }
+      
+
+      /*.mir {
+        margin-left: 51%;
+        margin-top: 20px;
+      }*/
+      
+      .dir {
+        color: white;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 12.5px;
+        background: #36A420;
+        padding: 10pc 15px;
+      }
+
+      .go {
+        display: none;
+      }
+
+      .mob11 {
+        display: none;
+      }
+
+       .mob12 {
+        display: none;
+      }
+
+      .nyt2 {
+        display: none;
+      }
+
+      .crypt {
+        margin-top: -182px;
+        margin-left: -80%;
+      }
+        
+
+       .create2 {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;   
+      background: #42B72A;
+      padding: 9px 13px;
+      border-radius: 2px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;     
+      position: relative;
+      margin-top: -90px;
+      display: none;
+  }
+      
+      .create2:hover {
+        background:  #36A420;
+        transition: .3s;
+      }
+
+
+      .nyt11 {
+        display: none;
+      }
+
+      .mobmail {
+        display: none;
+      }
+       .mobpass {
+         display: none;
+      }
+
+      hr {
+        display: none;
+      }
+
+      h5 {
+        display: none;
+      }
+
+      .pass {
+        display: none;
+      }
+
+      body {
+        background: #E9EBEE;
+      }
+
+      .cool {
+        width: 610px;
+        height: 280px;
+        background: #FFFFFF;
+        margin-top: 10px;
+        border-radius: 2px;
+        margin-top: -285px;
+      }
+
+      .book {
+        line-height: 95px;
+        color: #212121;
+        font-size: 18px;
+        font-family: arial;
+      }
+
+
+        .mail {
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+      margin-top: -30px;
+  }
+
+  .password {
+      margin-top: 12px;
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+
+  }
+
+  .submit {
+    margin-top: 12px;
+    width: 315px;
+    height: 43px;
+    background: #4267B2;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+
+    .submit:hover {
+    background: #365899;
+    transition: .4s;
+  }
+
+  .steal {
+      font-size: 11.8px;
+      letter-spacing: -0.1px;
+      padding: 3px;
+      border: none;
+      outline: none;
+      color: #6962B8;
+      
+  }
+
+  .steal:hover {
+    text-decoration: underline;
+  }
+
+   .footer {
+      width: 100%;
+      height: 345px;
+      background: white;
+      margin-top: 95px;
+  }
+
+
+  .black {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+.black:hover {
+  text-decoration: underline;
+}
+
+
+.blackk  {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+#cool {
+    margin-top: 100px;
+}
+
+
+.tyn {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.tyn:hover {
+  text-decoration: underline;
+}
+
+
+.nnt {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.nnt:hover {
+  text-decoration: underline;
+}
+
+.stolen {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+}
+
+.stolen2 {
+  padding-left: 185px;
+  margin-top: 18px;
+}
+
+.new {
+  margin-left: 231px;
+}
+
+.direct {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 105px;
+      background: #42B72A;
+      padding: 9px 11.5px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+}
+
+.direct:hover {
+    background: #36A420;
+    transition: .3s;
+}
+
+}
+}
+
+
+@media only screen and (min-width: 1366px){
+      .facebook {
+        margin-left: -245px;
+        width: 187px;
+        margin-top: 25px;
+
+      }
+
+      header {
+        height: 83px;
+        background-color: #3F5C9A;
+      }
+      
+
+      /*.mir {
+        margin-left: 51%;
+        margin-top: 20px;
+      }*/
+      
+      .dir {
+        color: white;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 12.5px;
+        background: #36A420;
+        padding: 10pc 15px;
+      }
+
+      .go {
+        display: none;
+      }
+
+      .mob11 {
+        display: none;
+      }
+
+       .mob12 {
+        display: none;
+      }
+
+      .nyt2 {
+        display: none;
+      }
+
+      .crypt {
+        margin-top: -182px;
+        margin-left: -80%;
+      }
+        
+
+       .create2 {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;   
+      background: #42B72A;
+      padding: 9px 13px;
+      border-radius: 2px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;     
+      position: relative;
+      margin-top: -90px;
+      display: none;
+  }
+      
+      .create2:hover {
+        background:  #36A420;
+        transition: .3s;
+      }
+
+
+      .nyt11 {
+        display: none;
+      }
+
+      .mobmail {
+        display: none;
+      }
+       .mobpass {
+         display: none;
+      }
+
+      hr {
+        display: none;
+      }
+
+      h5 {
+        display: none;
+      }
+
+      .pass {
+        display: none;
+      }
+
+      body {
+        background: #E9EBEE;
+      }
+
+      .cool {
+        width: 610px;
+        height: 280px;
+        background: #FFFFFF;
+        margin-top: 10px;
+        border-radius: 2px;
+        margin-top: -285px;
+      }
+
+      .book {
+        line-height: 95px;
+        color: #212121;
+        font-size: 18px;
+        font-family: arial;
+      }
+
+
+        .mail {
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+      margin-top: -30px;
+  }
+
+  .password {
+      margin-top: 12px;
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+
+  }
+
+  .submit {
+    margin-top: 12px;
+    width: 315px;
+    height: 43px;
+    background: #4267B2;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+
+    .submit:hover {
+    background: #365899;
+    transition: .4s;
+  }
+
+  .steal {
+      font-size: 11.8px;
+      letter-spacing: -0.1px;
+      padding: 3px;
+      border: none;
+      outline: none;
+      color: #6962B8;
+      
+  }
+
+  .steal:hover {
+    text-decoration: underline;
+  }
+
+   .footer {
+      width: 100%;
+      height: 345px;
+      background: white;
+      margin-top: 95px;
+  }
+
+
+  .black {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+.black:hover {
+  text-decoration: underline;
+}
+
+
+.blackk  {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+#cool {
+    margin-top: 100px;
+}
+
+
+.tyn {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.tyn:hover {
+  text-decoration: underline;
+}
+
+
+.nnt {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.nnt:hover {
+  text-decoration: underline;
+}
+
+.stolen {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+}
+
+.stolen2 {
+  padding-left: 185px;
+  margin-top: 18px;
+}
+
+.new {
+  margin-left: 231px;
+}
+
+.direct {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 105px;
+      background: #42B72A;
+      padding: 9px 11.5px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+}
+
+.direct:hover {
+    background: #36A420;
+    transition: .3s;
+}
+
+}
+
+
+
+@media only screen and (min-width: 1920px){
+   .facebook {
+        margin-left: -245px;
+        width: 187px;
+        margin-top: 25px;
+
+      }
+
+      header {
+        height: 83px;
+        background-color: #3F5C9A;
+      }
+      
+
+      /*.mir {
+        margin-left: 51%;
+        margin-top: 20px;
+      }*/
+      
+      .dir {
+        color: white;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 12.5px;
+        background: #36A420;
+        padding: 10pc 15px;
+      }
+
+      .go {
+        display: none;
+      }
+
+      .mob11 {
+        display: none;
+      }
+
+       .mob12 {
+        display: none;
+      }
+
+      .nyt2 {
+        display: none;
+      }
+
+      .crypt {
+        margin-top: -182px;
+        margin-left: -80%;
+      }
+        
+
+       .create2 {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 103px;   
+      background: #42B72A;
+      padding: 9px 13px;
+      border-radius: 2px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;     
+      position: relative;
+      margin-top: -90px;
+      display: none;
+  }
+      
+      .create2:hover {
+        background:  #36A420;
+        transition: .3s;
+      }
+
+
+      .nyt11 {
+        display: none;
+      }
+
+      .mobmail {
+        display: none;
+      }
+       .mobpass {
+         display: none;
+      }
+
+      hr {
+        display: none;
+      }
+
+      h5 {
+        display: none;
+      }
+
+      .pass {
+        display: none;
+      }
+
+      body {
+        background: #E9EBEE;
+      }
+
+      .cool {
+        width: 610px;
+        height: 280px;
+        background: #FFFFFF;
+        margin-top: 10px;
+        border-radius: 2px;
+        margin-top: -285px;
+      }
+
+      .book {
+        line-height: 95px;
+        color: #212121;
+        font-size: 18px;
+        font-family: arial;
+      }
+
+
+        .mail {
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+      margin-top: -30px;
+  }
+
+  .password {
+      margin-top: 12px;
+      color: rgb(124, 124, 124);
+      font-size: 14px;
+      outline: none;
+      border: none;
+      border: 1.4px solid rgb(211, 211, 211);
+      width: 303px;
+      height: 30px;
+      padding-left: 8px;
+
+  }
+
+  .submit {
+    margin-top: 12px;
+    width: 315px;
+    height: 43px;
+    background: #4267B2;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+
+    .submit:hover {
+    background: #365899;
+    transition: .4s;
+  }
+
+  .steal {
+      font-size: 11.8px;
+      letter-spacing: -0.1px;
+      padding: 3px;
+      border: none;
+      outline: none;
+      color: #6962B8;
+      
+  }
+
+  .steal:hover {
+    text-decoration: underline;
+  }
+
+   .footer {
+      width: 100%;
+      height: 345px;
+      background: white;
+      margin-top: 95px;
+  }
+
+
+  .black {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+.black:hover {
+  text-decoration: underline;
+}
+
+
+.blackk  {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+    
+}
+
+#cool {
+    margin-top: 100px;
+}
+
+
+.tyn {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.tyn:hover {
+  text-decoration: underline;
+}
+
+
+.nnt {
+    font-size: 11.8px;
+    letter-spacing: -0.01px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    color: #6962B8;
+    
+}
+
+.nnt:hover {
+  text-decoration: underline;
+}
+
+.stolen {
+    font-size: 11.8px;
+    letter-spacing: -0.1px;
+    padding: 3px;
+    border: none;
+    outline: none;
+    color: rgb(119, 119, 119);
+}
+
+.stolen2 {
+  padding-left: 185px;
+  margin-top: 18px;
+}
+
+.new {
+  margin-left: 231px;
+}
+
+.direct {
+      color: #ffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: arial;
+      line-height: 105px;
+      background: #42B72A;
+      padding: 9px 11.5px;
+      border-radius: 3px;
+      letter-spacing: 0px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+}
+
+.direct:hover {
+    background: #36A420;
+    transition: .3s;
+}
+
+}
+
+
+}
+
